@@ -1,0 +1,3 @@
+[submodule "OpenRGB.NET"]
+	path = OpenRGB.NET
+	url = https://github.com/diogotr7/OpenRGB.NET.git
